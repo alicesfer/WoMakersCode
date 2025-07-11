@@ -1,12 +1,13 @@
 # 🦋 Mais Mulheres em Tech 
-
-![Banner WoMakersCode](https://womakerscode.org/wp-content/uploads/2023/07/ong-womakerscode-thumb.png)
-
+<p>
+<img src="logo.png" width=70% align="center">
+</p>
 Repositório dedicado aos cursos e atividades oferecidos pela instituição **WoMakersCode**
 
 ## 📚 Cursos 
 
-* [Workshop Python Básico] ()
+* [Workshop Python Básico](/WoMakersCode/Workshop-python/workshop-python.md)
+
 - Programa de mentoria Elas na IA
 
 ---
