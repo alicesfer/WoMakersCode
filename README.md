@@ -6,7 +6,7 @@ Repositório dedicado aos cursos e atividades oferecidos pela instituição **Wo
 
 ## 📚 Cursos 
 
-- Workshop Python Básico
+* [Workshop Python Básico] ()
 - Programa de mentoria Elas na IA
 
 ---
